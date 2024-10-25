@@ -7,7 +7,7 @@
 ## Requirements
 
 ### 1. `README.md` File
-   - **Requirement**: A `README.md` file must be present and contain documentation.
+   - **Requirement**: A `README.md` file must be present contain documentation.
    - **Instructions**: Ensure `README.md` exists in the root of your project and is not empty.
    - **Verification Command**:
      ```bash
